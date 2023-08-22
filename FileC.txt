@@ -1,1 +1,2 @@
 New file for FeatureA
+changes for Squash merge 
