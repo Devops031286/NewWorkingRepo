@@ -1,3 +1,4 @@
 This is FileB
 Changes done for featureA
 Changes made to Main
+changes for Squash merge 
